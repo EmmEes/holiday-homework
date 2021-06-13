@@ -1,0 +1,35 @@
+.logo{
+    margin-top: 0;
+}
+
+input{
+ margin-left: 0px;  
+
+}
+
+.image{
+    margin-left: 30px;
+}
+
+iconDetails {
+    margin-left:2%;
+   float:left; 
+   height:40px;
+   width:40px; 
+   } 
+   
+   .container2 {
+       width:270px;
+       height:auto;
+       padding:1%;
+       float:left;
+   }
+
+
+h1{
+   display: inline-block; 
+}
+
+
+.left {float:left;width:45px;}
+.right {float:left;margin:0 0 0 5px;width:215px;}
